@@ -2,6 +2,6 @@
 
 『Cookie_Cligun』_Datapack
 
-#　詳しくはブログで
+詳しくはブログで
 
 https://al-minecraft.hatenablog.jp/entry/cookie_cligun
