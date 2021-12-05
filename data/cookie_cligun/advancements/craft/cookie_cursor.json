@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cookie_cligun:cookie_cursor"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cookie_cligun:craft/cookie_cursor"
+  }
+}

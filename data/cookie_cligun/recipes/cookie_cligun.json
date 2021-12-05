@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iiG",
+        "OCS",
+        "iiI"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "O": {
+            "item": "minecraft:orange_stained_glass_pane"
+        },
+        "C": {
+            "item": "minecraft:cookie"
+        },
+        "S": {
+            "tag": "minecraft:planks"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}

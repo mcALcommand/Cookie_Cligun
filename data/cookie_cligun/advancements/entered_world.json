@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:location"
+    }
+  },
+  "rewards": {
+    "function": "cookie_cligun:install_check"
+  }
+}

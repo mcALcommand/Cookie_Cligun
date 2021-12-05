@@ -1,0 +1,6 @@
+#プレイサウンド
+playsound minecraft:block.chest.open player @s ~ ~ ~ 1.5 1.2
+playsound minecraft:entity.player.burp player @a ~ ~ ~ 1.5 1.7
+
+#クッキーモード
+tellraw @s ["",{"text":"---------------\n"},{"text":"Click to Make a cookie\n","color": "gold"},{"text":"\uE001","clickEvent":{"action":"run_command","value":"/trigger Cligun_Cookie2 add 1"}},{"text":" \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \n","clickEvent":{"action":"run_command","value":"/trigger Cligun_Cookie2 add 1"}},{"text":" \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \n","clickEvent":{"action":"run_command","value":"/trigger Cligun_Cookie2 add 1"}},[{"text":"[","italic":false},{"text":"\uE003","italic":false},{"text":"Cursor:","italic":false,"clickEvent":{"action":"run_command","value":"/trigger buy.trigger add 1"}},{"score":{"name":"@s","objective":"cookie.cursor"},"italic":false,"clickEvent":{"action":"run_command","value":"/trigger buy.trigger add 1"}},{"text":"]","italic":false}],{"text":"[","italic":false},{"score":{"name":"@s","objective":"buy.cursor"},"italic":false},{"text":"]","italic":false},{"text":"\n---------------"}]

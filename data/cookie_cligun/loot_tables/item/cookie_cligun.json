@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crossbow",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Cookie Cligun\",\"color\":\"gold\",\"italic\":true}',Lore:['{\"text\":\"Rclick: Shot\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Sneak: ADS\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Offhand: Open Cookie Menu\",\"color\":\"white\",\"italic\":false}','{\"text\":\" \"}','{\"text\":\"\\\\\"なんだこのクッキーは!?\\\\\"\",\"color\":\"gray\",\"italic\":false}']},HideFlags:6,CustomModelData:1,Charged:1b,AlData:{ItemID:Cookie_Cligun,RawName:'{\"text\":\"Cookie Cligun\",\"color\":\"gold\",\"italic\":true}'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

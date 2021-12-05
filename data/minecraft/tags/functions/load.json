@@ -1,0 +1,5 @@
+{
+  "values": [
+    "forward_spreader:core/load","cookie_cligun:load","cookie_score_damage:core/init","score_to_health:load"
+  ]
+}

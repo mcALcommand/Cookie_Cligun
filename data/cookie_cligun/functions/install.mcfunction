@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"-------------------------\n\n[Cookie_Cligun]のインストールが成功しました。\n[Cookie_Cligun] has been installed.\n\nCreated by "},{"text":"AL","color":"gold"},{"text":"\n\n-------------------------"}]
